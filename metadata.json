@@ -1,0 +1,8 @@
+{
+  "name": "Remix TradeCore Global",
+  "description": "Universal B2B import-export and machinery indenting agency sourcing industrial machinery, raw materials, turnkey plants, and commodities worldwide with zero markups and LC security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
